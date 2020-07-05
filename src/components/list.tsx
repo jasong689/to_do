@@ -26,7 +26,6 @@ const TaskItem = styled.li`
         position: absolute;
         left: 50px;
         bottom: 0;
-        z-index: 1;
     }
 `
 
