@@ -5,3 +5,5 @@ To install
 
 To run locally
 `npm start`
+
+The app will be hosted at http://localhost:8080
